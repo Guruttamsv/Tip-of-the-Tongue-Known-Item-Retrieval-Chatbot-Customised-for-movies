@@ -74,9 +74,8 @@ Final movie titles are presented with a fun response including emojis.
 
 ## Project Structure
 
-├── tot_chat.py            # Main program file containing the chatbot implementation
-├── README.md             # Project documentation
-
+├── chatbot.py            # Main program file containing the chatbot implementation
+└──  README.md            # Project documentation
 
 ## Limitations and Future Work
 
