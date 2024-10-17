@@ -1,4 +1,4 @@
-# Tip of the Tongue (TOT) Movie Retrieval Chatbot
+# Tip of the Tongue (TOT) Known Item Retrieval Chatbot for Movies
 
 This project is a Tip-of-the-Tongue (TOT) known-item retrieval chatbot, designed to assist users in identifying movies they cannot fully recall. The system uses a conversational interface powered by LLama2 and NLP techniques to iteratively narrow down movie options based on vague or partial descriptions provided by users. The system utilizes autoencoder anomaly detection to extract unique features from movie plots and generates targeted questions to help refine the search.
 
