@@ -33,9 +33,9 @@ The TOT chatbot assists users in retrieving movies by:
 
 ## System Requirements
 
-**Python**: 3.8+
-**GPU**: High-performance GPU recommended for faster model loading and execution.
-**Libraries**: LangChain, HuggingFace, Transformers, Wikipedia API, Keras, **TensorFlow**, NLTK, and others (see below for installation).
++ **Python**: 3.8+
++ **GPU**: High-performance GPU recommended for faster model loading and execution.
++ **Libraries**: LangChain, HuggingFace, Transformers, Wikipedia API, Keras, TensorFlow, NLTK, and others (see below for installation).
 
 ## Installation
 
@@ -74,14 +74,9 @@ Final movie titles are presented with a fun response including emojis.
 
 ## Project Structure
 
-├── chatbot.py            # Main program file containing the chatbot implementation
+├── tot_chat.py            # Main program file containing the chatbot implementation
 ├── README.md             # Project documentation
-├── requirements.txt      # List of Python dependencies
-├── LICENSE               # License file
-├── /models               # Directory for pre-trained models
-├── /data                 # Movie dataset (if applicable)
-├── /scripts              # Additional helper scripts
-└── /resources            # Static resources like images, diagrams, etc.
+
 
 ## Limitations and Future Work
 
