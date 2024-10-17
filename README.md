@@ -25,24 +25,24 @@ The TOT chatbot assists users in retrieving movies by:
 
 ## Features
 
-* Conversational Interface: A user-friendly chatbot interface built with Tkinter to allow easy interactions.
-* Large Language Model: Utilizes LLama2 for text generation, question generation, and brainstorming potential movie options.
-* Autoencoder for Anomaly Detection: Differentiates movie plots and identifies unique plot points for generating questions.
-* Wikipedia Plot Retrieval: Automatically searches for and extracts movie plot summaries from Wikipedia.
-* Interactive Questioning: Dynamically generates yes/no questions to refine movie choices based on the user's responses.
+* **Conversational Interface:** A user-friendly chatbot interface built with Tkinter to allow easy interactions.
+* **Large Language Model:** Utilizes LLama2 for text generation, question generation, and brainstorming potential movie options.
+* **Autoencoder for Anomaly Detection:** Differentiates movie plots and identifies unique plot points for generating questions.
+* **Wikipedia Plot Retrieval:** Automatically searches for and extracts movie plot summaries from Wikipedia.
+* **Interactive Questioning:** Dynamically generates yes/no questions to refine movie choices based on the user's responses.
 
 ## System Requirements
 
-+ **Python**: 3.8+
-+ **GPU**: High-performance GPU recommended for faster model loading and execution.
-+ **Libraries**: LangChain, HuggingFace, Transformers, Wikipedia API, Keras, TensorFlow, NLTK, and others (see below for installation).
++ **Python:** 3.8+
++ **GPU:** High-performance GPU recommended for faster model loading and execution.
++ **Libraries:** LangChain, HuggingFace, Transformers, Wikipedia API, Keras, TensorFlow, NLTK, and others (see below for installation).
 
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-repo/tot-movie-chatbot.git
-cd tot-movie-chatbot
+git clone https://github.com/Guruttamsv/Tip-of-the-Tongue-Known-Item-Retrieval-Chatbot-Customised-for-movies.git
+cd Tip-of-the-Tongue-Known-Item-Retrieval-Chatbot-Customised-for-movies
 ```
 2. Set up a virtual environment: Using conda or virtualenv is recommended:
 ```bash
